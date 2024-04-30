@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://okbangla.com/wp-content/uploads/2024/03/okbangla_ipl_featured-1024x576.png" group-title="IPL", IPL Bangla
+http://starshare.live:8080/live/Nicholas/Nicholas/304286.ts
